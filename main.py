@@ -1,5 +1,5 @@
 # Program to check if a number is prime or not
-num = 67
+num = 67564
 # To take input from the user
 #num = int(input("Enter a number: "))
 # define a flag variable
@@ -16,6 +16,6 @@ elif num > 1:
         break
 # check if flag is True
     if flag:
-        print(num, "azeze") 
+        print(num, "aze3qweze") 
     else:
-        print(num, "azeze")
+        print(num, "az23qweeze")
